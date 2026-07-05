@@ -1,0 +1,9 @@
+{
+  "name": "Sword (LEARN)",
+  "description": "A non-fungible learning item (id 1) inside the LearningMultiToken ERC-1155 contract on Sepolia testnet. One-of-a-kind. Not a real asset.",
+  "image": "https://raw.githubusercontent.com/Madanpurohit/fusssssssst/main/assets/sword.svg",
+  "properties": {
+    "type": "non-fungible",
+    "network": "sepolia"
+  }
+}
