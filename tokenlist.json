@@ -1,0 +1,24 @@
+{
+  "name": "Learning Test List",
+  "timestamp": "2026-07-05T10:38:36.809Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "test",
+    "learning",
+    "sepolia"
+  ],
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x1F3dD92849d1396f1C505dc27fd55E66E2d00E08",
+      "name": "Learning Test Token",
+      "symbol": "LEARN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Madanpurohit/fusssssssst/main/assets/learn-logo.svg"
+    }
+  ]
+}
